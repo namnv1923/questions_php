@@ -1,0 +1,19 @@
+{
+    "name": "namnv/questions",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "namnv",
+            "email": "namnv2302@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.0",
+        "php": ">=8.1"
+    },
+    "config": { "platform-check": false }
+}
